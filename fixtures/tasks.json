@@ -1,0 +1,9 @@
+[
+  {
+    "model": "strugglebus_api.tasks",
+    "pk": 1,
+    "fields": {
+      "task_name": "Brush Teeth"
+    }
+  }
+]
