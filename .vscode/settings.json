@@ -1,3 +1,11 @@
 {
-  "python.pythonPath": "/Users/brookenemchak/.local/share/virtualenvs/strugglebus_api-viw-owjL/bin/python"
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "rareDB",
+      "database": "${workspaceFolder:strugglebus_api}/rare.db"
+    }
+  ],
+  "python.pythonPath": "/usr/bin/python3"
 }
