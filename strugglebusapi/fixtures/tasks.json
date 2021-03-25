@@ -1,9 +1,42 @@
 [
   {
-    "model": "strugglebus_api.tasks",
+    "model": "strugglebusapi.tasks",
     "pk": 1,
     "fields": {
-      "task_name": "Brush Teeth"
+      "name": "Brush Teeth",
+      "completed": false
+    }
+  },
+  {
+    "model": "strugglebusapi.tasks",
+    "pk": 2,
+    "fields": {
+      "name": "Feed Cat",
+      "completed": false
+    }
+  },
+  {
+    "model": "strugglebusapi.tasks",
+    "pk": 3,
+    "fields": {
+      "name": "Eat Lunch",
+      "completed": false
+    }
+  },
+  {
+    "model": "strugglebusapi.tasks",
+    "pk": 4,
+    "fields": {
+      "name": "Shower",
+      "completed": false
+    }
+  },
+  {
+    "model": "strugglebusapi.tasks",
+    "pk": 5,
+    "fields": {
+      "name": "Me Time",
+      "completed": false
     }
   }
 ]
